@@ -10,7 +10,7 @@ Meine Gruppenprojekte sind:
 Meine solo Projekte sind:
   - **Fischfutterautomat** mit **FFA_Uno** und **FFA_ESP** (C++)
   - **FitnessApp** mit Datenbankanbindung welche individuelle Trainingspläne erstellt (Kotlin)
-  - **CO2-Partikel-Anzeige** kostengünstige Alternative zum bestimmen der Luftverschmutzung in Innenräumen
+  - **CO2-Partikel-Anzeige** kostengünstige Alternative zum bestimmen der Luftverschmutzung in Innenräumen (C++)
 
 ![380544468-b048f577-00d8-411b-ac76-001024890546](https://github.com/user-attachments/assets/24699fa0-cbdd-4278-9ff4-00232f809ccc)
 
