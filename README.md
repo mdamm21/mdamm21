@@ -1,16 +1,17 @@
-## Hi there 👋
+## Willkommen auf dem GitHub Profil von Max Damm
 
-<!--
-**mdamm21/mdamm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Softwareentwickler mit Fokus auf **embedded systems**, **KI-Systeme** und **mobile App Entwicklung**
 
-Here are some ideas to get you started:
+Meine Gruppenprojekte sind:
+  - **I2GCode** ein Tool um aus Bilddateien, G-Code für CNC-Maschinen zu generieren (C#)
+  - ein autonomer Roboterarm mit **Roboterarm_Bildverarbeitung** und **embsys_roboterarm_control** welcher mit einer Kamera objekte erkennt und dann einfache Sortierfunktionen übernimmt (C und Python)
+  - **WorkClock** eine App zum einfachen Tracken der Arbeitszeit (Flutter und Dart)#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meine solo Projekte sind:
+  - ein Fischfutterautomat mit **FFA_Uno** und **FFA_ESP** (C++)
+  - **FitnessApp** eine einfache Fitnessapp mit Datenbankanbindung welche Nutzerbezogene Trainingspläne erstellt (Kotlin)
+  - **CO2-Partikel-Anzeige** eine kostengünstige Alternative zum bestimmen der Luftverschmutzung in Innenräumen
+
+![380544468-b048f577-00d8-411b-ac76-001024890546](https://github.com/user-attachments/assets/24699fa0-cbdd-4278-9ff4-00232f809ccc)
+
+Zurzeit studiere ich **[Ingenieurinformatik](https://ii.htw-berlin.de)** an der HTW Berlin 
