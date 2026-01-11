@@ -3,14 +3,14 @@
 Ich bin Softwareentwickler mit Fokus auf **embedded systems**, **KI-Systeme** und **mobile App Entwicklung**
 
 Meine Gruppenprojekte sind:
-  - **[I2GCode](https://github.com/mdamm21/I2GCode)** ein Tool um aus Bilddateien, G-Code für CNC-Maschinen zu generieren (C#)
-  - **autonomer Roboterarm** mit **[Roboterarm_Bildverarbeitung](https://github.com/mdamm21/Roboterarn_Bildverarbeitung)** und **[embsys_roboterarm_control](https://github.com/mdamm21/embsys_roboterarm_control)** (C und Python)
-  - **[WorkClock]()** eine App zum einfachen Tracken der Arbeitszeit (Flutter und Dart)
+  - **I2GCode** ein Tool um aus Bilddateien, G-Code für CNC-Maschinen zu generieren (C#) [hier](https://github.com/mdamm21/I2GCode)
+  - **autonomer Roboterarm** mit **Roboterarm_Bildverarbeitung** und **embsys_roboterarm_control** (C und Python) [hier](https://github.com/mdamm21/Roboterarn_Bildverarbeitung) und [hier](https://github.com/mdamm21/embsys_roboterarm_control)
+  - **WorkClock** eine App zum einfachen Tracken der Arbeitszeit (Flutter und Dart) [hier]()
 
 Meine solo Projekte sind:
-  - **Fischfutterautomat** mit **[FFA_Uno](https://github.com/mdamm21/FFA_Uno)** und **[FFA_ESP](https://github.com/mdamm21/FFA_ESP)** (C++)
-  - **[FitnessApp](https://github.com/mdamm21/FitnessApp)** mit Datenbankanbindung welche individuelle Trainingspläne erstellt (Kotlin)
-  - **[CO2-Partikel-Anzeige](https://github.com/mdamm21/CO2-Partikel-Anzeige)** kostengünstige Alternative zum bestimmen der Luftverschmutzung in Innenräumen (C++)
+  - **Fischfutterautomat** mit **FFA_Uno** und **FFA_ESP** (C++) [hier](https://github.com/mdamm21/FFA_Uno) und [hier](https://github.com/mdamm21/FFA_ESP)
+  - **FitnessApp** mit Datenbankanbindung welche individuelle Trainingspläne erstellt (Kotlin) [hier](https://github.com/mdamm21/FitnessApp)
+  - **CO2-Partikel-Anzeige** kostengünstige Alternative zum bestimmen der Luftverschmutzung in Innenräumen (C++) [hier](https://github.com/mdamm21/CO2-Partikel-Anzeige)
 
 ![380544468-b048f577-00d8-411b-ac76-001024890546](https://github.com/user-attachments/assets/24699fa0-cbdd-4278-9ff4-00232f809ccc)
 
